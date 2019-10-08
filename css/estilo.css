@@ -1,0 +1,56 @@
+body{
+	margin: 0 auto;
+	font-size: 1.4em;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+header{
+	background-color: white;
+	text-align: center;
+}
+
+.post_header{
+	border-top: 15px dashed #1b1b1b;
+}
+
+#principal{
+	padding: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#menu ul li{
+	display: inline;
+	padding-left: 2%;
+	padding-right: 2%;
+	list-style: none;
+}
+
+.logo{
+	width: 40%;
+	box-shadow: 1px 1px 10px #e8e8e8;
+	border-radius: 150px;
+	-webkit-filter: grayscale(1) drop-shadow(16px 16px 10px rgba(0,0,0,0.9));;
+  	filter: grayscale(1) drop-shadow(10px 1px 10px rgba(0,0,0,0.9));;
+
+}
+
+li{
+	color: #2400ff;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #1b1b1b;
+	font-size: 1.5em;
+}
+
+
+/*------*/
+.fotos{
+	max-width: 50%;
+	width: 50%;
+  	height: auto;
+  	box-shadow: 1px 1px 5px black;
+  	margin: 0.5%;
+}
