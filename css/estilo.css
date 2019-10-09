@@ -48,8 +48,8 @@ ul li a{
 
 /*------*/
 .fotos{
-	max-width: 50%;
-	width: 50%;
+	width: 100%;
+	max-width: 500px;
   	height: auto;
   	box-shadow: 1px 1px 5px black;
   	margin: 0.5%;
